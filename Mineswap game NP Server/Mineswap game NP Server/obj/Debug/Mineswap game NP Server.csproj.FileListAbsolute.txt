@@ -1,0 +1,6 @@
+c:\users\sm ghazi\documents\visual studio 2015\Projects\Mineswap game NP Server\Mineswap game NP Server\bin\Debug\Mineswap game NP Server.exe.config
+c:\users\sm ghazi\documents\visual studio 2015\Projects\Mineswap game NP Server\Mineswap game NP Server\bin\Debug\Mineswap game NP Server.exe
+c:\users\sm ghazi\documents\visual studio 2015\Projects\Mineswap game NP Server\Mineswap game NP Server\bin\Debug\Mineswap game NP Server.pdb
+c:\users\sm ghazi\documents\visual studio 2015\Projects\Mineswap game NP Server\Mineswap game NP Server\obj\Debug\Mineswap game NP Server.csprojResolveAssemblyReference.cache
+c:\users\sm ghazi\documents\visual studio 2015\Projects\Mineswap game NP Server\Mineswap game NP Server\obj\Debug\Mineswap game NP Server.exe
+c:\users\sm ghazi\documents\visual studio 2015\Projects\Mineswap game NP Server\Mineswap game NP Server\obj\Debug\Mineswap game NP Server.pdb
